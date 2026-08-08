@@ -1,7 +1,7 @@
 # Hi 👋, I'm Rafael Croccia   
     
 🚀 **Full Stack Developer**   
-🇵🇹 Portugal
+🇵🇹 Portugal  
  
 I build scalable end-to-end applications, seamless user interfaces, and high-performance backends using React, Next.js, NestJS, and modern cloud architecture.
  
