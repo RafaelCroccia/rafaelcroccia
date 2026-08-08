@@ -9,6 +9,8 @@ Deeply focused on clean code, product performance, scalable design patterns, and
 
 I also create content and share insights on modern web development, SaaS architecture, and tech entrepreneurship.
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=RafaelCroccia&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=RafaelCroccia&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=dark)
+
 
 ## 🧠 What I do
 
