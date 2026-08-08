@@ -2,7 +2,7 @@
 
 🚀 **Full Stack Developer**   
 🇵🇹 Portugal
-
+ 
 I build scalable end-to-end applications, seamless user interfaces, and high-performance backends using React, Next.js, NestJS, and modern cloud architecture.
 
 Deeply focused on clean code, product performance, scalable design patterns, and business value.
@@ -20,7 +20,7 @@ I also create content and share insights on modern web development, SaaS archite
 -   🤖 Automation & integrations
 -   📊 Dashboards & analytics
 -   🎓 Teaching & mentoring developers
-
+   
 ## 🛠️ Tech Stack
 
 ### Front-End
