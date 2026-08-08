@@ -19,7 +19,7 @@ I also create content and share insights on modern web development, SaaS archite
 -   💳 Payments, subscriptions & business logic
 -   🤖 Automation & integrations
 -   📊 Dashboards & analytics
--   🎓 Teaching & mentoring developers
+-   🎓 Teaching & mentoring developers 
    
 ## 🛠️ Tech Stack
 
